@@ -2,10 +2,6 @@
 Secure-digit high capacity
  */
 
-
-#include<SDHC.h>
-#include"SDHC.h"
-
 #ifndef __SDHC_H__
 #define __SDHC_H__
 
